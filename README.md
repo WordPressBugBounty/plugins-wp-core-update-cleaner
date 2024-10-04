@@ -1,0 +1,1 @@
+# plugins-wp-core-update-cleaner
